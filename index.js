@@ -27,7 +27,6 @@ sendFeedbackBtn?.addEventListener("click", (e) => {
 });
 
 if (window.location.pathname === "/comments.html") {
-  console.log(comments);
   const commentsDiv = document.querySelector(".comments");
 
   const html = comments.reduce((acc, commentData) => {
