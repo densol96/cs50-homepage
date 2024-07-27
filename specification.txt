@@ -1,0 +1,16 @@
+body
+div
+header
+main
+footer
+button
+p
+input
+form
+nav
+.primary-heading 
+#footer 
+.about 
+.comments-section 
+section 
+
